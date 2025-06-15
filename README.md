@@ -46,4 +46,10 @@ This project is a powerful automation tool that scrapes job listings from **Inde
 ## 📦 Installation
 
 ### 1. Clone the Repo
+    git clone https://github.com/KhalilBouslah/Job-Scraper-ai.git
+    cd Job-Scraper-ai.git
+### 2. install requirements  
 
+    pip install -r requirements.txt
+### 3. run app 
+    python run streamlit_app.py 
