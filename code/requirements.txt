@@ -1,0 +1,10 @@
+pandas
+selenium
+seleniumbase
+bs4
+matplotlib
+webdriver-manager
+gspread
+gspread_dataframe 
+oauth2client
+streamlit
