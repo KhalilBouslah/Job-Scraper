@@ -39,7 +39,7 @@ This project is a powerful automation tool that scrapes job listings from **Inde
 
 ## 🖼️ Demo
 
-![Streamlit Screenshot]
+![Streamlit Screenshot](https://github.com/KhalilBouslah/Job-Scraper/blob/main/Screenshots/streamlit_job.png)
 
 ---
 
