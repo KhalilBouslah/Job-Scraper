@@ -73,3 +73,12 @@ This project is a powerful automation tool that scrapes job listings from **Inde
     
 ### 3. run app 
     python run streamlit_app.py 
+
+
+
+
+
+
+### 📬 Contact: khalilbouslah@gmail.com
+
+    
