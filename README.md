@@ -51,5 +51,25 @@ This project is a powerful automation tool that scrapes job listings from **Inde
 ### 2. install requirements  
 
     pip install -r requirements.txt
+    
+### 3. Set Up Google Sheets API
+
+    Go to Google Developers Console
+
+    Enable Google Sheets API and Google Drive API
+
+    Create a Service Account and download the credentials.json
+
+    Share your sheet with the service account email
+
+### 4. Configure Your API Key
+
+    Replace the placeholder in the script:
+    
+    OPENROUTER_API_KEY = "sk-or-your-api-key"
+    
+    Get yours from: https://openrouter.ai
+
+    
 ### 3. run app 
     python run streamlit_app.py 
